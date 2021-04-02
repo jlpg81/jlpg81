@@ -39,7 +39,7 @@
 <h3>More links</h3>
 <p>
 <a href="https://www.linkedin.com/in/jorgelpg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="jorgeperezgomez.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Personal_Website-orange?style=flat-square" /></a>
+<a href="https://jorgeperezgomez.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Personal_Website-orange?style=flat-square" /></a>
 </p>
 
 <!--
