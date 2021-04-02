@@ -1,10 +1,9 @@
-### Hi there 👋
+### Welcome to my page! 👋
 
-<p>Welcome to my page!</p>
 <p>I'm Jorge, Fullstack Developer currently living in Barcelona, Spain.<p/>
 
 <h3>My interests</h3>
-<p>Im always willing to help out with projects that have a direct impact to make life better for people. If you think your project has what it takes, hit me up!</p>
+<p>I enjoy working in projects that have a direct impact and make life better for people. If you think your project has what it takes, hit me up!</p>
 
 <h3>Some of the tools I use</h3>
 <p>
@@ -19,8 +18,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Python" src="	https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
