@@ -1,8 +1,6 @@
-### Welcome to my page! 👋
+<h1> Welcome to my page! 👋 </h1>
 
-<p>I'm Jorge, Fullstack Developer currently living in Barcelona, Spain.<p/>
-
-<h3>My interests</h3>
+<p>I'm Jorge, Fullstack Developer currently in Barcelona, Spain.<p/>
 <p>I enjoy working in projects that have a direct impact and make life better for people. If you think your project has what it takes, hit me up!</p>
 
 <h3>Some of the tools I use</h3>
@@ -40,7 +38,7 @@
 
 <h3>More links</h3>
 <p>
-<a href="https://www.linkedin.com/in/jorgelpg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jorgelpg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="jorgeperezgomez.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Personal_Website-orange?style=flat-square" /></a>
 </p>
 
